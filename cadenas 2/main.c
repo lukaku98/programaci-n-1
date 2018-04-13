@@ -30,4 +30,12 @@ for(i=0;i<5;i++)
 
 
     return 0;
-}
+}char nombre []
+char apellido[]
+char apellidoynombre[]
+
+****************************
+ingresar el apellido
+ingresar el nombre
+
+apellidoynombre="cosme;fulanito"
